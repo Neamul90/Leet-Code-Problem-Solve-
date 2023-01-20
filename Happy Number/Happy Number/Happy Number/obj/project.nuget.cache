@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KCz1PWWIYvGhm45CVwguOog/JOMfl4Atfq6sVGOUNfEif5dFfuHkhc9QL/p3D6OdyzA0mtA87Sh1y3lf4Lza1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Leet Code\\Happy Number\\Happy Number\\Happy Number\\Happy Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

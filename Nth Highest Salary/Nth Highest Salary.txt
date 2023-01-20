@@ -1,0 +1,9 @@
+Alter FUNCTION getNthHighestSalary(@N INT) RETURNS INT AS
+BEGIN
+    RETURN (
+        /* Write your T-SQL query statement below. */
+      
+		SELECT TOP 1 CostPrice FROM ( SELECT DISTINCT TOP (@N) CostPrice FROM Product ORDER BY CostPrice DESC ) AS temp ORDER BY CostPrice)
+END
+
+select  dbo.getNthHighestSalary(3)

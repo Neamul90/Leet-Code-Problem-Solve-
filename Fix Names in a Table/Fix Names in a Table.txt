@@ -1,0 +1,4 @@
+/* Write your T-SQL query statement below */
+SELECT user_id ,
+  UPPER(CAST(name as nchar(1)))+LOWER(STUFF(CAST(name as nvarchar(max)),1,1,'')) as name
+FROM Users order by user_id

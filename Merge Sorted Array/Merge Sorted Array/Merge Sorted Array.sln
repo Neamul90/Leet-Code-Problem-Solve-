@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Sorted Array", "Merge Sorted Array\Merge Sorted Array.csproj", "{CC779AF3-5E76-496C-8C45-C29AC5594728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC779AF3-5E76-496C-8C45-C29AC5594728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC779AF3-5E76-496C-8C45-C29AC5594728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC779AF3-5E76-496C-8C45-C29AC5594728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC779AF3-5E76-496C-8C45-C29AC5594728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B974C945-EDAF-4709-A08D-EA1C89F75F14}
+	EndGlobalSection
+EndGlobal

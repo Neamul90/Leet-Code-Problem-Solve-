@@ -1,0 +1,15 @@
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\bin\Debug\net6.0\Square Root.exe
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\bin\Debug\net6.0\Square Root.deps.json
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\bin\Debug\net6.0\Square Root.runtimeconfig.json
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\bin\Debug\net6.0\Square Root.dll
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\bin\Debug\net6.0\Square Root.pdb
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\obj\Debug\net6.0\Square Root.csproj.AssemblyReference.cache
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\obj\Debug\net6.0\Square Root.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\obj\Debug\net6.0\Square Root.AssemblyInfoInputs.cache
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\obj\Debug\net6.0\Square Root.AssemblyInfo.cs
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\obj\Debug\net6.0\Square Root.csproj.CoreCompileInputs.cache
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\obj\Debug\net6.0\Square Root.dll
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\obj\Debug\net6.0\refint\Square Root.dll
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\obj\Debug\net6.0\Square Root.pdb
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\obj\Debug\net6.0\Square Root.genruntimeconfig.cache
+D:\Leet Code\Sqrt(x)\Square Root\Square Root\obj\Debug\net6.0\ref\Square Root.dll

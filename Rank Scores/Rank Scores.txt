@@ -1,0 +1,8 @@
+select s.Score, l.Rank 
+from Scores s
+left join (
+    select Score, row_number() over (order by Score desc) as 'Rank' 
+    from Scores 
+    group by Score
+) l on l.Score=s.Score
+order by s.Score desc
