@@ -1,0 +1,15 @@
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\obj\Debug\net6.0\Maximum Depth of Binary Tree.csproj.AssemblyReference.cache
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\obj\Debug\net6.0\Maximum Depth of Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\obj\Debug\net6.0\Maximum Depth of Binary Tree.AssemblyInfoInputs.cache
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\obj\Debug\net6.0\Maximum Depth of Binary Tree.AssemblyInfo.cs
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\obj\Debug\net6.0\Maximum Depth of Binary Tree.csproj.CoreCompileInputs.cache
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\bin\Debug\net6.0\Maximum Depth of Binary Tree.exe
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\bin\Debug\net6.0\Maximum Depth of Binary Tree.deps.json
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\bin\Debug\net6.0\Maximum Depth of Binary Tree.runtimeconfig.json
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\bin\Debug\net6.0\Maximum Depth of Binary Tree.dll
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\bin\Debug\net6.0\Maximum Depth of Binary Tree.pdb
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\obj\Debug\net6.0\Maximum Depth of Binary Tree.dll
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\obj\Debug\net6.0\refint\Maximum Depth of Binary Tree.dll
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\obj\Debug\net6.0\Maximum Depth of Binary Tree.pdb
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\obj\Debug\net6.0\Maximum Depth of Binary Tree.genruntimeconfig.cache
+D:\Leet-Code-Problem-Solve-\104. Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\Maximum Depth of Binary Tree\obj\Debug\net6.0\ref\Maximum Depth of Binary Tree.dll

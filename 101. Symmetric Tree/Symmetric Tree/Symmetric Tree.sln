@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symmetric Tree", "Symmetric Tree\Symmetric Tree.csproj", "{389CB1AA-B5F9-4F0D-85E9-0A7C959D51BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389CB1AA-B5F9-4F0D-85E9-0A7C959D51BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389CB1AA-B5F9-4F0D-85E9-0A7C959D51BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389CB1AA-B5F9-4F0D-85E9-0A7C959D51BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389CB1AA-B5F9-4F0D-85E9-0A7C959D51BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6A9F575-CDA5-41D1-8925-F95901F4E3DE}
+	EndGlobalSection
+EndGlobal

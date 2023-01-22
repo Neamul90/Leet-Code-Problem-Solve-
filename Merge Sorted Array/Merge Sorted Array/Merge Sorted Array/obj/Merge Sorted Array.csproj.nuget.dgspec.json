@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Leet Code\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array.csproj": {}
+    "D:\\Leet-Code-Problem-Solve-\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array.csproj": {}
   },
   "projects": {
-    "D:\\Leet Code\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array.csproj": {
+    "D:\\Leet-Code-Problem-Solve-\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Leet Code\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array.csproj",
+        "projectUniqueName": "D:\\Leet-Code-Problem-Solve-\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array.csproj",
         "projectName": "Merge Sorted Array",
-        "projectPath": "D:\\Leet Code\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array.csproj",
+        "projectPath": "D:\\Leet-Code-Problem-Solve-\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array.csproj",
         "packagesPath": "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\",
-        "outputPath": "D:\\Leet Code\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array\\obj\\",
+        "outputPath": "D:\\Leet-Code-Problem-Solve-\\Merge Sorted Array\\Merge Sorted Array\\Merge Sorted Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohammad Neamul\\AppData\\Roaming\\NuGet\\NuGet.Config",
