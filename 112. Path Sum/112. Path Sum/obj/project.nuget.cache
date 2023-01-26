@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzoGfkc62RocrduI9bXEMt0f0RJ/0XbHdGPSPfvzFb2spIGM12IjyV3t8D1sCDWhnbm0Eva+a3Y7a9KzvmzEKA==",
+  "success": true,
+  "projectFilePath": "D:\\Leet-Code-Problem-Solve-\\112. Path Sum\\112. Path Sum\\112. Path Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

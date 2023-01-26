@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oGcvS7dfej/x0Cp3ACoYDa7KZli5hK/zBrdLW+jjhqWXw4K5+ZBxHdjaUT2P4Tn9DLNQw0N04I4TnhSZXNcHhw==",
+  "success": true,
+  "projectFilePath": "D:\\Leet-Code-Problem-Solve-\\125. Valid Palindrome\\125. Valid Palindrome\\125. Valid Palindrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

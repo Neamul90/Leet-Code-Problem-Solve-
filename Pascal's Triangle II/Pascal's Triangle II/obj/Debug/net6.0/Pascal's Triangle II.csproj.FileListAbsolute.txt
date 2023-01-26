@@ -1,0 +1,15 @@
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\bin\Debug\net6.0\Pascal's Triangle II.exe
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\bin\Debug\net6.0\Pascal's Triangle II.deps.json
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\bin\Debug\net6.0\Pascal's Triangle II.runtimeconfig.json
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\bin\Debug\net6.0\Pascal's Triangle II.dll
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\bin\Debug\net6.0\Pascal's Triangle II.pdb
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\obj\Debug\net6.0\Pascal's Triangle II.csproj.AssemblyReference.cache
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\obj\Debug\net6.0\Pascal's Triangle II.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\obj\Debug\net6.0\Pascal's Triangle II.AssemblyInfoInputs.cache
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\obj\Debug\net6.0\Pascal's Triangle II.AssemblyInfo.cs
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\obj\Debug\net6.0\Pascal's Triangle II.csproj.CoreCompileInputs.cache
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\obj\Debug\net6.0\Pascal's Triangle II.dll
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\obj\Debug\net6.0\refint\Pascal's Triangle II.dll
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\obj\Debug\net6.0\Pascal's Triangle II.pdb
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\obj\Debug\net6.0\Pascal's Triangle II.genruntimeconfig.cache
+D:\Leet-Code-Problem-Solve-\Pascal's Triangle II\Pascal's Triangle II\obj\Debug\net6.0\ref\Pascal's Triangle II.dll

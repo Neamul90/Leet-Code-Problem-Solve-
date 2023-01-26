@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "111. Minimum Depth of Binary Tree/1.0.0": {
+        "runtime": {
+          "111. Minimum Depth of Binary Tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "111. Minimum Depth of Binary Tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

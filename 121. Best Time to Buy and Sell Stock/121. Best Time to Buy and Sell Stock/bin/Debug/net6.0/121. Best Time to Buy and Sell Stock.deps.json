@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "121. Best Time to Buy and Sell Stock/1.0.0": {
+        "runtime": {
+          "121. Best Time to Buy and Sell Stock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "121. Best Time to Buy and Sell Stock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

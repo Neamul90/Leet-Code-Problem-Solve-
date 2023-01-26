@@ -1,0 +1,15 @@
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\bin\Debug\net6.0\118. Pascal's Triangle.exe
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\bin\Debug\net6.0\118. Pascal's Triangle.deps.json
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\bin\Debug\net6.0\118. Pascal's Triangle.runtimeconfig.json
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\bin\Debug\net6.0\118. Pascal's Triangle.dll
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\bin\Debug\net6.0\118. Pascal's Triangle.pdb
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.csproj.AssemblyReference.cache
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.AssemblyInfoInputs.cache
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.AssemblyInfo.cs
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.csproj.CoreCompileInputs.cache
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.dll
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\obj\Debug\net6.0\refint\118. Pascal's Triangle.dll
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.pdb
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.genruntimeconfig.cache
+D:\Leet-Code-Problem-Solve-\118. Pascal's Triangle\118. Pascal's Triangle\obj\Debug\net6.0\ref\118. Pascal's Triangle.dll

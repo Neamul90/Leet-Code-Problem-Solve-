@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "111. Minimum Depth of Binary Tree", "111. Minimum Depth of Binary Tree\111. Minimum Depth of Binary Tree.csproj", "{6CFE86DB-643A-4E1A-A6CF-955EA4EC61C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFE86DB-643A-4E1A-A6CF-955EA4EC61C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFE86DB-643A-4E1A-A6CF-955EA4EC61C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFE86DB-643A-4E1A-A6CF-955EA4EC61C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFE86DB-643A-4E1A-A6CF-955EA4EC61C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {021893CF-AB2E-44DF-81AB-2B3CF0A8F18D}
+	EndGlobalSection
+EndGlobal

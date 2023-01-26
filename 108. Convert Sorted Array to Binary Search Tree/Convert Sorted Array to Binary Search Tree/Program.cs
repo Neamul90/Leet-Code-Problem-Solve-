@@ -15,28 +15,31 @@ public class TreeNode
 public class Solution
 {
 
-    public static int MaxDepth(TreeNode root)
+    public static TreeNode SortedArrayToBST(int[] nums)
     {
-        if (root == null)
-            return 0;
-        int leftMax = MaxDepth(root.left);
-        int rightMax = MaxDepth(root.right);
-        if (leftMax > rightMax)
-            return leftMax + 1;
-        else
-            return rightMax + 1;
+        return helper(nums, 0, nums.Length - 1);
+    }
+    static TreeNode helper(int[] nums, int low, int high)
+    {
+        if (low > high)
+        {
+            return null;
+        }
+
+        int mid = low + (high - low) / 2;
+        //center val of sorted array as the root of the bst
+        TreeNode head = new TreeNode(nums[mid]);
+
+        //left of the mid value should go to the left of this root node to satisfy bst
+        head.left = helper(nums, low, mid - 1);
+        //right of the mid value should go to the right of this root node to satisfy bst
+        head.right = helper(nums, mid + 1, high);
+        return head;
+
     }
     public static void Main()
     {
-        TreeNode left = new TreeNode();
-        TreeNode right = new TreeNode();
-        left = new TreeNode(1);
-        left.left = new TreeNode(2);
-        left.right = new TreeNode(2);
-        left.left.left = new TreeNode(3);
-        left.left.right = new TreeNode(4);
-        left.right.left = new TreeNode(4);
-        left.right.right = new TreeNode(3);
-        var data = MaxDepth(left);
+        int[] left = { -10, -3, 0, 5, 9 };
+        var data = SortedArrayToBST(left);
     }
 }
