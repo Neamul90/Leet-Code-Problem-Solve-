@@ -11,7 +11,6 @@ public class Solution
         string str = Regex.Replace(s, @"[^0-9a-zA-Z]", string.Empty).ToLower();
         if (str.Length <= 1)
             return true;
-        //The reverse() method of StringBuilder is used to reverse the characters in the StringBuilder.
         char[] chars = str.ToCharArray();
         Array.Reverse(chars);
         String rstr = new String(chars);
