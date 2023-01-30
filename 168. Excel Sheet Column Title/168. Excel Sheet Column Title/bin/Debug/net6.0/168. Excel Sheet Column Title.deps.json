@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "168. Excel Sheet Column Title/1.0.0": {
+        "runtime": {
+          "168. Excel Sheet Column Title.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "168. Excel Sheet Column Title/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l2GBOjAO3FkYPmJdMgo4GUuIN9H4Nq/RYbL+AlW3tzsyMRHQHSW/3N0YXzFSeTac2vf7hX1+gwtu2zKbnb+SHA==",
+  "success": true,
+  "projectFilePath": "D:\\Leet-Code-Problem-Solve-\\145. Binary Tree Postorder Traversal\\145. Binary Tree Postorder Traversal\\145. Binary Tree Postorder Traversal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Neamul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
